@@ -1,0 +1,218 @@
+[
+    {
+        "id": 1,
+        "nome": "Especialista em Acupuntura"
+    },
+    {
+        "id": 2,
+        "nome": "Especialista em Alergia e Imunologia"
+    },
+    {
+        "id": 3,
+        "nome": "Especialista em Anestesiologista"
+    },
+    {
+        "id": 4,
+        "nome": "Especialista em Angiologia"
+    },
+    {
+        "id": 5,
+        "nome": "Especialista em Cardiologia"
+    },
+    {
+        "id": 6,
+        "nome": "Especialista em Cirurgia Cardiovascular"
+    },
+    {
+        "id": 7,
+        "nome": "Especialista em Cirurgia de Mão"
+    },
+    {
+        "id": 8,
+        "nome": "Especialista  em Cirurgia de Cabeça e Pescoço"
+    },
+    {
+        "id": 9,
+        "nome": "Especialista em Cirurgia do Aparelho Digestivo"
+    },
+    {
+        "id": 10,
+        "nome": "Especialista em Cirurgia Geral"
+    },
+    {
+        "id": 11,
+        "nome": "Especialista em Cirurgia Oncológica"
+    },
+    {
+        "id": 12,
+        "nome": "Especialista em Cirurgia Pediátrica"
+    },
+    {
+        "id": 13,
+        "nome": "Especialista em Cirurgia Plástica"
+    },
+    {
+        "id": 14,
+        "nome": "Especialista em Cirurgia Torácica"
+    },
+    {
+        "id": 15,
+        "nome": "Especialista em Cirurgia Vascular"
+    },
+    {
+        "id": 16,
+        "nome": "Especialista em Clínica Médica"
+    },
+    {
+        "id": 17,
+        "nome": "Especialista em Coloproctologia"
+    },
+    {
+        "id": 18,
+        "nome": "Especialista em Dermatologia"
+    },
+    {
+        "id": 19,
+        "nome": "Especialista em Endocrinologia e Metabologia"
+    },
+    {
+        "id": 20,
+        "nome": "Especialista em Endoscopia"
+    },
+    {
+        "id": 21,
+        "nome": "Especialista em Gastroenterologia"
+    },
+    {
+        "id": 22,
+        "nome": "Especialista em Genética Médica"
+    },
+    {
+        "id": 23,
+        "nome": "Especialista em Geriatria"
+    },
+    {
+        "id": 24,
+        "nome": "Especialista em Ginecologia e Obstetrícia"
+    },
+    {
+        "id": 25,
+        "nome": "Especialista em Hematologia e Hemoterapia"
+    },
+    {
+        "id": 26,
+        "nome": "Especialista em Homeopatia"
+    },
+    {
+        "id": 27,
+        "nome": "Especialista em Mastologia"
+    },
+    {
+        "id": 28,
+        "nome": "Especialista em Medicina de Emergência"
+    },
+    {
+        "id": 29,
+        "nome": "Especialista em Medicina de Família e Comunidade"
+    },
+    {
+        "id": 30,
+        "nome": "Especialista em Medicina do Trabalho"
+    },
+    {
+        "id": 31,
+        "nome": "Especialista em Medicina de Tráfego"
+    },
+    {
+        "id": 32,
+        "nome": "Especialista em Medicina Esportiva"
+    },
+    {
+        "id": 33,
+        "nome": "Especialista em Medicina Física e Reabilitação"
+    },
+    {
+        "id": 34,
+        "nome": "Especialista em Medicina Intensiva"
+    },
+    {
+        "id": 35,
+        "nome": "Especialista em Medicina Legal e Perícia Médica"
+    },
+    {
+        "id": 36,
+        "nome": "Especialista em Medicina Nuclear"
+    },
+    {
+        "id": 37,
+        "nome": "Especialista em Medicina Preventiva e Social"
+    },
+    {
+        "id": 38,
+        "nome": "Especialista em Nefrologia"
+    },
+    {
+        "id": 39,
+        "nome": "Especialista em Neurocirurgia"
+    },
+    {
+        "id": 40,
+        "nome": "Especialista em Neurologia"
+    },
+    {
+        "id": 41,
+        "nome": "Especialista em Nutrologia"
+    },
+    {
+        "id": 42,
+        "nome": "Especialista em Oftalmologia"
+    },
+    {
+        "id": 43,
+        "nome": "Especialista em Oncologia Clínica"
+    },
+    {
+        "id": 44,
+        "nome": "Especialista em Ortopedia e Traumatologia"
+    },
+    {
+        "id": 45,
+        "nome": "Especialista em Otorrinolaringologia"
+    },
+    {
+        "id": 46,
+        "nome": "Especialista en Patologia"
+    },
+    {
+        "id": 47,
+        "nome": "Especialista em Patologia Clínica/Medicina Laboratorial"
+    },
+    {
+        "id": 48,
+        "nome": "Especialista em Pediatria"
+    },
+    {
+        "id": 49,
+        "nome": "Especialista em Pneumologia"
+    },
+    {
+        "id": 50,
+        "nome": "Especialista em Psiquiatria"
+    },
+    {
+        "id": 51,
+        "nome": "Especialista em Radiologia e Diagnóstico por Imagem"
+    },
+    {
+        "id": 52,
+        "nome": "Especialista em Radioterapia"
+    },
+    {
+        "id": 53,
+        "nome": "Especialista em Reumatologia"
+    },
+    {
+        "id": 54,
+        "nome": "Especialista em Urologia"
+    }
+]
